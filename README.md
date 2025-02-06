@@ -1,4 +1,4 @@
-<h1>숫자 맞추기 게임</h1>
+<h1>게임설명</h1>
 <img src="https://github.com/dayeDev/number-guessing-game/blob/main/image.png" alt="이미지 미리보기" width="200" height="100"/>
 <p>술게임 Up Down에서 영감을 받은 프로젝트입니다.</p>
 <a href="https://number-game-test.netlify.app/" target="_blank">URL로 연결됩니다.</a><br><br>
@@ -16,7 +16,7 @@
    <li>유저가 1~100범위 밖에 숫자를 입력할시에 경고메세지가 뜬다.</li>
    <li>유저가 이미 입력한 값을 또 입력할 시에 경고메세지가 뜬다.</li>
    <li>반응형 UI(예정)</li>
-  </ol>
+  </ol><br>
   
 <h2>사용한 기술</h2>
   <ul>
