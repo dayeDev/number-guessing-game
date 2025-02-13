@@ -3,7 +3,6 @@
 <p>술게임 Up Down에서 영감을 받은 프로젝트입니다.</p>
 <a href="https://number-game-test.netlify.app/" target="_blank">URL로 연결됩니다.</a><br><br>
 
-<h2>추가했어요</h2>
 <h2>기능</h2>
   <ol>
    <li>게임이 시작할때 1~100 이내의 랜덤한 숫자를 뽑는다.</li>
