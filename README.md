@@ -20,6 +20,6 @@
 <h2>사용한 기술</h2>
   <ul>
    <li>HTML</li>
-   <li>CSS(예정)</li>
+   <li>CSS</li>
    <li>JavaScript</li>
 </ul>
