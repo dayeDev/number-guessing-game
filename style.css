@@ -13,8 +13,9 @@ body{
 
 #container{
   width: 70%;
-  height: 30%;
+  height: 35%;
   text-align: center;
+  font-weight: 700;
   justify-content: space-around;
   align-items: center;
   background-color: rgba(180, 111, 54, 0.7);
@@ -25,24 +26,46 @@ body{
 
 .resultText {
   color: rgb(211, 44, 44);
-  font-weight: 700;
   font-size: 30px;
   padding-bottom: 20px;
 }
 
+.chance{
+  padding-bottom: 15px;
+}
+
 #user-input{
-  text-align: center;
-  border-radius: 100px;
   width: 200px;
+  height: 30px;
+  border-radius: 100px;
+  text-align: center;
 }
 
 #play-button, #reset-button{
   width: 100px;
+  height: 30px;
   border-radius: 100px;
+  margin-top: 3px;
 }
 
+@media screen and (max-width: 760px){
+  body{
+    background-size: contain;
+  }
+  
+  #container{
+    width: 80%;
+    max-width: 400px;
+    min-width: 150px;
+  }
+  
+  #play-button, #reset-button{
+    width: 100px;
+    border-radius: 50px;
+  }
 
 
+}
 
 
 
